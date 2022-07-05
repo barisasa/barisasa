@@ -19,10 +19,10 @@ window.onload = function() {
   var messages = [
     'Hi, this is Barış',
     'An ambitious marketer with a particular focus on marketing and growth. 🙂',
-    'Working at <a target="_blank" href="https://artboard.studio/">artboard.studio</a>\ as a Growth Manager.',
-    'Love automating marketing processes and am always trying to learn & use & implement cutting edge methods and technologies in my job.',
-    'You can see my resume from this <a target="_blank" href="https://www.barisasa.com/cv.pdf">link</a> and you can get in touch with me from<br><a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a>\',
-    '<a target="_blank" href="https://twitter.com/barisasa">twitter.com/barisasa</a><br><a target="_blank" href="https://www.linkedin.com/in/barisasa">linkedin.com/in/barisasa</a><br><a target="_blank" href="https://medium.com/@BarisAsa">medium.com/@BarisAsa</a>',
+    'Working at <a target="_blank" href="https://artboard.studio/">artboard.studio</a> as a Growth Manager.'
+    'Love automating marketing processes and am always trying to learn & use & implement cutting edge methods and technologies in my job.'
+    'You can see my resume from this <a target="_blank" href="https://www.barisasa.com/cv.pdf">link</a> and you can get in touch with me from<br><a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a>\.'
+    '<a target="_blank" href="https://twitter.com/barisasa">twitter.com/barisasa</a><br><a target="_blank" href="https://www.linkedin.com/in/barisasa">linkedin.com/in/barisasa</a><br><a target="_blank" href="https://medium.com/@BarisAsa">medium.com/@BarisAsa</a>'
     getCurrentTime(),
   ]
 
