@@ -20,8 +20,8 @@ window.onload = function() {
     'I’m Barış',
     'An ambitious marketer with a particular focus on marketing and growth 🙂',
     'Currently, working at <a target="_blank" href="https://artboard.studio">artboard.studio</a>\ as a Growth Manager',
-    'Love automating marketing processes and always trying to learn & implement cutting edge methods and technologies in my projects',
-    'Download my resume from <a target="_blank" href="https://www.barisasa.com/cv.pdf">this link</a> and<br><a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a>\'dan ulaşabilirsiniz',
+    'Love automating marketing processes and always trying to learn & implement<br>cutting edge methods and technologies in my projects',
+    'Download my resume from <a target="_blank" href="https://www.barisasa.com/cv.pdf">here</a> and<br>contact with me on<a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a>\'dan ulaşabilirsiniz',
     '<a target="_blank" href="https://twitter.com/barisasa">twitter.com/barisasa</a><br><a target="_blank" href="https://www.linkedin.com/in/barisasa">linkedin.com/in/barisasa</a><br><a target="_blank" href="https://medium.com/@BarisAsa">medium.com/@BarisAsa</a>',
     getCurrentTime(),
   ]
