@@ -11,9 +11,9 @@ window.onload = function() {
     var hours =  date.getHours();
     var minutes =  date.getMinutes();
     var current = hours + (minutes * .01);
-    if (current >= 6 && current < 17) return 'İyi günler! ☀️';
-    if (current >= 17 && current < 22) return 'İyi akşamlar! 🦊';
-    if (current >= 22 || current < 5) return 'İyi geceler! 🌛';
+    if (current >= 6 && current < 17) return 'Have a great day! ☀️';
+    if (current >= 17 && current < 20) return 'Have a wonderful evening! 🦊';
+    if (current >= 20 || current < 5) return 'Have a good night! 🌛';
   }
 
   var messages = [
@@ -21,7 +21,7 @@ window.onload = function() {
     'An ambitious marketer with a particular focus on marketing and growth 🙂',
     'Currently, working at <a target="_blank" href="https://artboard.studio">artboard.studio</a>\ as a Growth Manager',
     'Love automating marketing processes and always trying to learn & implement cutting edge methods and technologies in my projects',
-    'Özgeçmişime <a target="_blank" href="https://www.barisasa.com/cv.pdf">buradan</a> bana<br><a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a>\'dan ulaşabilirsiniz',
+    'Download my resume from <a target="_blank" href="https://www.barisasa.com/cv.pdf">this link</a> and<br><a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a>\'dan ulaşabilirsiniz',
     '<a target="_blank" href="https://twitter.com/barisasa">twitter.com/barisasa</a><br><a target="_blank" href="https://www.linkedin.com/in/barisasa">linkedin.com/in/barisasa</a><br><a target="_blank" href="https://medium.com/@BarisAsa">medium.com/@BarisAsa</a>',
     getCurrentTime(),
   ]
