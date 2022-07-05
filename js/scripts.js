@@ -18,10 +18,10 @@ window.onload = function() {
 
   var messages = [
     'Hi, this is Barış',
-    'I'm an ambitious marketer with a particular focus on marketing and growth. 🙂',
-    'I'm working at <a target="_blank" href="https://artboard.studio/">artboard.studio</a>\ as a Growth Manager.',
-    'Daha önce <a target="_blank" href="https://www.gittigidiyor.com">eBay</a>, <a target="_blank" <a target="_blank" href="https://bundlenews.co">Bundle</a> ve <a target="_blank" <a target="_blank" href="https://iyisahne.com">iyisahne</a>\'de çalıştım',
-    'Özgeçmişime <a target="_blank" href="https://www.barisasa.com/cv.pdf">buradan</a> bana<br><a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a>\'dan ulaşabilirsiniz',
+    'An ambitious marketer with a particular focus on marketing and growth. 🙂',
+    'Working at <a target="_blank" href="https://artboard.studio/">artboard.studio</a>\ as a Growth Manager.',
+    'Love automating marketing processes and am always trying to learn & use & implement cutting edge methods and technologies in my job.',
+    'You can see my resume from this <a target="_blank" href="https://www.barisasa.com/cv.pdf">link</a> and you can get in touch with me from<br><a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a>\',
     '<a target="_blank" href="https://twitter.com/barisasa">twitter.com/barisasa</a><br><a target="_blank" href="https://www.linkedin.com/in/barisasa">linkedin.com/in/barisasa</a><br><a target="_blank" href="https://medium.com/@BarisAsa">medium.com/@BarisAsa</a>',
     getCurrentTime(),
   ]
