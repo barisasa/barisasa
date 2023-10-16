@@ -18,11 +18,11 @@ window.onload = function() {
 
   var messages = [
     'I’m Barış',
-    'A growth marketing, demand generation, and customer lifecyle management expert with 7+ years of experience. 🙂'
-    'Always excited to driving user and revenue growth for B2B/B2C SaaS companies. 🚀'
-    'See my resume from <a target="_blank" href="https://barisasa.com/Baris-Asa-Resume.pdf">here 📋'
+    'A growth marketing, demand generation, and customer lifecyle management expert with 7+ years of experience. 🙂',
+    'Always excited to driving user and revenue growth for B2B/B2C SaaS companies. 🚀',
+    'See my resume from <a target="_blank" href="https://barisasa.com/Baris-Asa-Resume.pdf">here 📋',
     'Say hi <a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a> 👋',
-    'Find me on <a target="_blank" href="https://twitter.com/barisasa">Twitter</a><br>or<br><a target="_blank" href="https://www.linkedin.com/in/barisasa">Linkedin</a>.',
+    'Find me on <a target="_blank" href="https://twitter.com/barisasa">Twitter</a> and <a target="_blank" href="https://www.linkedin.com/in/barisasa">Linkedin</a>.',
     getCurrentTime(),
   ]
 
