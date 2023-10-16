@@ -18,10 +18,11 @@ window.onload = function() {
 
   var messages = [
     'I’m Barış',
-    'A growth & digital marketing professional focused on data-driven strategies for driving business growth. 🙂',
-    'Always excited to bring my skills and expertise to help drive success for my clients',
-    'Download my resume from <a target="_blank" href="https://barisasa.com/Baris-Asa-Resume.pdf">here</a> or reach me out via <a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a>.',
-    '<a target="_blank" href="https://twitter.com/barisasa">twitter.com/barisasa</a><br><a target="_blank" href="https://www.linkedin.com/in/barisasa">linkedin.com/in/barisasa</a><br><a target="_blank" href="https://medium.com/@BarisAsa">medium.com/@BarisAsa</a>',
+    'A growth marketing, demand generation, and customer lifecyle management expert with 7+ years of experience. 🙂'
+    'Always excited to driving user and revenue growth for B2B/B2C SaaS companies. 🚀'
+    'See my resume from <a target="_blank" href="https://barisasa.com/Baris-Asa-Resume.pdf">here 📋'
+    'Say hi <a href="mailto:barisasa@gmail.com">barisasa@gmail.com</a> 👋',
+    'Find me on <a target="_blank" href="https://twitter.com/barisasa">Twitter</a><br>or<br><a target="_blank" href="https://www.linkedin.com/in/barisasa">Linkedin</a>.',
     getCurrentTime(),
   ]
 
